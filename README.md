@@ -15,7 +15,7 @@
 
 > [!NOTE]
 >
-> * There're corner cases where `tree-sitter-nu` would fail with parsing errors, if you encounter any, feel free to report [at the parser side](https://github.com/nushell/tree-sitter-nu/issues).
+> * There are corner cases where `tree-sitter-nu` would fail with parsing errors, if you encounter any, feel free to report [at the parser side](https://github.com/nushell/tree-sitter-nu/issues).
 > * If you encounter any style/format issue, please report in this repo.
 
 ## Setup
